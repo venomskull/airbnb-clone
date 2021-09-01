@@ -4,5 +4,5 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](
 
 It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
 
-## View the  <a href="https://airbnb-clone-pi6mdd292-venomskull-gmailcom.vercel.app/">View the project here..</a>
+# <a href="https://airbnb-clone-pi6mdd292-venomskull-gmailcom.vercel.app/">View the project here..</a>
 
